@@ -1,0 +1,3 @@
+[submodule "rnnoise-models"]
+	path = rnnoise-models
+	url = https://github.com/GregorR/rnnoise-models.git
